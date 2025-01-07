@@ -16,8 +16,8 @@ I'm a **Discord Bot Developer** and **Web Developer** with a passion for buildin
 
 ### 📫 Let's Connect!
 - **Discord**: dr.viktor_
-- **GitHub**: [Your GitHub Username](https://github.com/CodeWithViktor)
-- **Discord**: [Your LinkedIn Profile](https://discord.gg/BWBDVUbrCN)
+- **GitHub**: [CodeWithViktor](https://github.com/CodeWithViktor)
+- **Discord**: Private for now
 
 ### 🎯 Goals
 - Develop more high-tech websites with dynamic animations and advanced effects.
